@@ -5,3 +5,4 @@ console.log('hello');
 result = a + b;
 console.log(result);
 console.log('bye!');
+console.log(0);
